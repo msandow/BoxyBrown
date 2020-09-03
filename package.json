@@ -17,7 +17,7 @@
     "node-sass": "=4.7.2",
     "mime": "=1.3.4",
     "less": "=2.5.1",
-    "request": "=2.51.0",
+    "request": "=2.88.2",
     "PrettyConsole": "git+https://git@github.com:msandow/prettyconsole.git",
     "async": "=1.2.1",
     "through": "2.3.4"

@@ -15,7 +15,7 @@
     "browserify": "=14.0.0",
     "coffeeify": "=2.1.0",
     "node-sass": "=4.7.2",
-    "mime": "=1.3.4",
+    "mime": "=2.4.6",
     "less": "=2.5.1",
     "request": "=2.51.0",
     "PrettyConsole": "git+https://git@github.com:msandow/prettyconsole.git",
